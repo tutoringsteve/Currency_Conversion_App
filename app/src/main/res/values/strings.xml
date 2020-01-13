@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currency_array">
+        <item>Pounds</item>
+        <item>Dollars</item>
+        <item>Pesos</item>
+    </string-array>
+</resources>
